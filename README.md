@@ -1,5 +1,5 @@
 # LangyuyeMaven使用方法集合
-maven　url配置
+## maven配置
 ```java
 allprojects {
     repositories {
