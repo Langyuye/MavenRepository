@@ -1,6 +1,5 @@
 # LangyuyeMaven使用方法集合
-### MaterialDialog使用方法
-build.gradle配置
+maven链接
 ```java
 allprojects {
     repositories {
@@ -10,6 +9,10 @@ allprojects {
         }
     }
 }
+```
+### MaterialDialog使用方法
+build.gradle配置
+```java
 dependencies {
     compile 'com.langyuye.library:dialog:1.0.0'
 }
