@@ -10,7 +10,7 @@ allprojects {
     }
 }
 ```
-### MaterialDialog使用方法
+### １、MaterialDialog
 build.gradle配置
 ```java
 dependencies {
